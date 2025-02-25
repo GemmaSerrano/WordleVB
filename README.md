@@ -1,3 +1,4 @@
+Markdown
 # Wordle Game
 
 Wordle-style desktop game developed with VB.NET and Visual Studio.
@@ -11,6 +12,9 @@ Wordle-style desktop game developed with VB.NET and Visual Studio.
 - VB.NET
 - Windows Forms
 - Visual Studio
+
+## Screenshot
+![Imagen del juego](image/img_wordle.png)
 
 ## Author
 Gemma Serrano
